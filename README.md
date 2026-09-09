@@ -2,6 +2,14 @@
 
 Three focused examples for Python, Excel and responsive-web work. AI-assisted using Codex; claims below refer to executed checks, not client endorsements or paid engagements.
 
+## Request a small project
+
+Available scopes include spreadsheet cleanup, public-source research comparisons, a reproducible Python bug, and a focused responsive-layout fix. To discuss a quote, [open an issue with a short brief](https://github.com/umd0730/technical-work-samples/issues/new): describe the desired output, approximate input size, deadline and budget. Public issues are for non-sensitive briefs only; do not upload private files, credentials or personal records. Scope, delivery date and acceptance checks are agreed before work starts.
+
+## Original 3D asset pack
+
+[Conveyor Studio Kit — 13 Industrial 3D Assets](https://ko-fi.com/s/f6da3f3554) is a separate, original Blender/GLB pack listed at USD 24. It includes conveyors, handling and storage props, an assembly example and editable source. Static visualization assets; not manufacturing CAD or print-certified models. The paid pack has its own license and is not included in this sample repository. Payment setup is being finalized; availability of the listing does not guarantee checkout readiness. Questions about a custom static model can use the project-brief link above.
+
 ## 1. Order quality workbook — self-initiated
 
 **Problem:** inconsistent IDs, duplicate rows and missing quantities can distort a routine operations summary.
@@ -38,6 +46,6 @@ Open `web/index.html` directly for the repaired page. For the before/after compa
 
 ## How a small engagement would work
 
-Agree on one reproducible problem, sanitized inputs, acceptance criteria and delivery scope before work starts. Receive the focused deliverable, relevant checks and a short handoff. Fixed-price service drafts are separate from these samples; no order is represented here.
+Agree on one reproducible problem, sanitized inputs, acceptance criteria and delivery scope before work starts. Receive the focused deliverable, relevant checks and a short handoff. Payment for agreed work uses PayPal Goods and Services; do not post payment details in an issue. These samples and the separate asset listing are not paid-client results, and no order is represented here.
 
 GitHub identity for this portfolio: [umd0730](https://github.com/umd0730). No personal contact, payout or authentication information is included.
