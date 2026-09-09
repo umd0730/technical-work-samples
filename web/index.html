@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fieldnotes — responsive repair demo</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to main content</a>
+  <div class="demo-note">Self-initiated portfolio demo · fictional workshop · no booking or payment</div>
+  <header class="site-header shell">
+    <a class="brand" href="#main" aria-label="Fieldnotes home"><span class="mark" aria-hidden="true">f.</span>fieldnotes</a>
+    <button class="menu-toggle" type="button" aria-controls="navigation" aria-expanded="false">Menu <span aria-hidden="true">+</span></button>
+    <nav id="navigation" aria-label="Main"><a href="#workshop">The workshop</a><a href="#questions">Questions</a><a class="nav-cta" href="#enquiry">Try the form <span aria-hidden="true">↗</span></a></nav>
+  </header>
+  <main id="main" class="shell">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy"><p class="eyebrow">A SMALL WORKSHOP FOR CURIOUS MINDS</p><h1 id="hero-title">Make room<br>for <em>noticing.</em></h1><p class="lead">An afternoon of slowing down, sketching what you see, and finding a new way to look at familiar places.</p><a class="button" href="#workshop">Explore the workshop <span aria-hidden="true">↗</span></a><p class="small-note">A fictional event, built to demonstrate a focused website repair.</p></div>
+      <div class="art" role="img" aria-label="Original geometric illustration of a terracotta arch, sun and leaves"><div class="sun"></div><div class="arch"></div><div class="leaf leaf-one"></div><div class="leaf leaf-two"></div><span class="art-caption">LOOK CLOSER. FIND MORE.</span></div>
+    </section>
+    <section id="workshop" class="workshop" aria-labelledby="workshop-title"><div><p class="eyebrow">THE IDEA</p><h2 id="workshop-title">Less screen.<br>More observation.</h2></div><div class="description"><p>This sample page brings a simple workshop to life. A clear reading order, a compact menu and a usable enquiry form should work on a phone as comfortably as on a desktop.</p><ul class="facts"><li><span>Format</span><strong>Guided creative practice</strong></li><li><span>Bring</span><strong>A notebook & curiosity</strong></li><li><span>Experience</span><strong>No drawing skills needed</strong></li></ul></div></section>
+    <section id="questions" class="questions" aria-labelledby="questions-title"><p class="eyebrow">GOOD TO KNOW</p><h2 id="questions-title">A few questions.</h2><details><summary>Is this a real workshop?</summary><p>No. This is an original, self-initiated website demo. It is not a past client engagement, and no place, booking or payment is offered.</p></details><details><summary>What was repaired in this example?</summary><p>The intentionally broken version uses a fixed-width layout. The repaired page reflows into one column on small screens, keeps long text inside its container and provides a keyboard-operable menu.</p></details><details><summary>Does the enquiry form send anything?</summary><p>No. It validates fields locally and shows a preview message. Nothing is sent or saved. Use made-up details to try it.</p></details></section>
+    <section id="enquiry" class="enquiry" aria-labelledby="enquiry-title"><div><p class="eyebrow">TRY THE INTERACTION</p><h2 id="enquiry-title">A form that fits.</h2><p>Use synthetic details. This form stays in your browser; it has no submission endpoint.</p></div><form><label for="name">Name</label><input id="name" name="name" autocomplete="off" placeholder="Alex Example" required maxlength="80"><label for="email">Email</label><input id="email" name="email" type="email" autocomplete="off" placeholder="alex@example.com" required maxlength="160"><label for="message">What would you like to explore?</label><textarea id="message" name="message" rows="3" required maxlength="500" placeholder="A few words about your idea…"></textarea><button class="button" type="submit">Preview enquiry <span aria-hidden="true">↗</span></button><p id="form-status" role="status" aria-live="polite"></p></form></section>
+  </main>
+  <footer class="shell"><span class="brand">fieldnotes</span><p>Original concept · AI-assisted using Codex · demonstration only</p><a href="compare.html">View before / after</a></footer>
+</body>
+</html>

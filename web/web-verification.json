@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-09T00:52:09.127Z",
+  "browser": "152.0.4191.66",
+  "synthetic": true,
+  "checks": [
+    {
+      "name": "no horizontal overflow at 320px",
+      "result": "PASS"
+    },
+    {
+      "name": "broken fixture overflows at 320px",
+      "result": "PASS"
+    },
+    {
+      "name": "no horizontal overflow at 390px",
+      "result": "PASS"
+    },
+    {
+      "name": "broken fixture overflows at 390px",
+      "result": "PASS"
+    },
+    {
+      "name": "no horizontal overflow at 768px",
+      "result": "PASS"
+    },
+    {
+      "name": "broken fixture overflows at 768px",
+      "result": "PASS"
+    },
+    {
+      "name": "no horizontal overflow at 1280px",
+      "result": "PASS"
+    },
+    {
+      "name": "keyboard opens menu and Escape restores focus",
+      "result": "PASS"
+    },
+    {
+      "name": "navigation link closes menu and reaches section",
+      "result": "PASS"
+    },
+    {
+      "name": "FAQ keyboard toggle",
+      "result": "PASS"
+    },
+    {
+      "name": "empty form stays invalid",
+      "result": "PASS"
+    },
+    {
+      "name": "invalid email rejected",
+      "result": "PASS"
+    },
+    {
+      "name": "whitespace-only name rejected",
+      "result": "PASS"
+    },
+    {
+      "name": "valid preview makes no submission request and escapes user text",
+      "result": "PASS"
+    },
+    {
+      "name": "editing input clears stale success",
+      "result": "PASS"
+    },
+    {
+      "name": "desktop resize resets mobile menu state",
+      "result": "PASS"
+    },
+    {
+      "name": "no JavaScript errors or external/POST requests",
+      "result": "PASS"
+    }
+  ],
+  "consoleErrors": [],
+  "network": {
+    "requestCount": 22,
+    "externalRequests": 0,
+    "postRequests": 0
+  },
+  "limitations": [
+    "Desktop Edge Chromium only; no physical iOS/Safari device test.",
+    "Intentional before fixture; not a past customer website.",
+    "Form is local preview only; no backend or payment processing."
+  ]
+}

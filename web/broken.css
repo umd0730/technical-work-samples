@@ -1,0 +1,2 @@
+/* Deliberately introduced regression fixture, not a real customer's website. */
+.shell{width:1080px;min-width:1080px}.hero{grid-template-columns:520px 490px;gap:70px}.site-header nav{display:flex;width:auto;flex-direction:row;gap:32px}.menu-toggle{display:none}.workshop,.enquiry{grid-template-columns:480px 510px;gap:90px}.art{width:490px;max-width:none}
