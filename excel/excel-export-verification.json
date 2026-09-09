@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "independent_recomputed_rows": 18,
+  "ready_rows": 12,
+  "review_rows": 6,
+  "ready_units": 77,
+  "cached_result_checks": {
+    "A8": 18,
+    "B8": 12,
+    "C8": 6,
+    "B10": 77,
+    "C14": 32,
+    "C15": 14,
+    "C16": 31
+  },
+  "live_formula_count": 82,
+  "error_cells": [],
+  "macros": false,
+  "external_workbook_links": false,
+  "limitations": "Reads XLSX XML and cached values. Does not run Microsoft Excel."
+}
