@@ -1,0 +1,102 @@
+[
+  {
+    "path": "index.html",
+    "bytes": 4942,
+    "sha256": "d2f19791c95c1f90053c846951bac7e11142a9a6858f3ddfef2a7e22cfb641dc"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4452,
+    "sha256": "694fae2968e87a628d7887094be1fdf6cf71225697b7fa37ba732a869fb63549"
+  },
+  {
+    "path": "excel/verify_export.py",
+    "bytes": 2480,
+    "sha256": "95bd2da19d910131291b4fab4e4c851559214389d5769ef2ea4272555a7293b6"
+  },
+  {
+    "path": "portfolio-verification.json",
+    "bytes": 207,
+    "sha256": "de0eb10630b27eda4038ecc47c2bb0eca097e4dc19904d2cfc19de41fa0589f6"
+  },
+  {
+    "path": "excel/order-quality-demo.xlsx",
+    "bytes": 8278,
+    "sha256": "8c8ad55abd8a750e1ac93b55ec7e3486d51e50d820f3a688fe64d077e94b4c9f"
+  },
+  {
+    "path": "excel/synthetic-orders.json",
+    "bytes": 839,
+    "sha256": "311fde1003bdf64a580614ab7f07fa52b7a256f9002898a485776ee478c9f886"
+  },
+  {
+    "path": "excel/excel-summary.png",
+    "bytes": 122517,
+    "sha256": "39de3388d67be11bb33df424771aa5de1026b537c8a67d1b7f749f5c11939a90"
+  },
+  {
+    "path": "excel/excel-source.png",
+    "bytes": 237091,
+    "sha256": "13efd88eeec8798dedbe5b5faab103825bc4f8c467ada95439cd395704ac3454"
+  },
+  {
+    "path": "excel/excel-export-verification.json",
+    "bytes": 463,
+    "sha256": "16813676cd589ed37614fa084baf73a441e902ad1d79a7639ca652c45d0d9363"
+  },
+  {
+    "path": "web/index.html",
+    "bytes": 4468,
+    "sha256": "a7dfaff8c5b11f04d840ef676965b4f79ec9e79a47af9c0127c42889bd6b7b9c"
+  },
+  {
+    "path": "web/style.css",
+    "bytes": 5676,
+    "sha256": "88a30dd092a5cad5128618632fd48ca8430399ba22884edada86412f274349f5"
+  },
+  {
+    "path": "web/app.js",
+    "bytes": 1528,
+    "sha256": "45d4a28d1cf6e885711c22834dece99591db6d1b8ad4733bde095831bd00da45"
+  },
+  {
+    "path": "web/broken.css",
+    "bytes": 357,
+    "sha256": "fc0b983fb68f773031a08e07cbbbeafbddab2b012b466db031beab87a01ed009"
+  },
+  {
+    "path": "web/compare.html",
+    "bytes": 2498,
+    "sha256": "b76332b89f77d6dc27f25eef8f27736d89028012e1a7c20e8dae1e256dd4714b"
+  },
+  {
+    "path": "web/web-before-390.png",
+    "bytes": 117840,
+    "sha256": "0c96b4972c9b602e21d04d1a5dcbf9869390055182c63b7e46c45940a92aef4f"
+  },
+  {
+    "path": "web/web-after-320.png",
+    "bytes": 99645,
+    "sha256": "e22c5e940e778191ec2adaf05a6ff9b0923c398d547d41133659d37adc8f48e6"
+  },
+  {
+    "path": "web/web-after-390.png",
+    "bytes": 104785,
+    "sha256": "b5bf5f8d2f11b37aa089535ecbdc4de46e78045fa4090dd0a29670152276cdf2"
+  },
+  {
+    "path": "web/web-after-768.png",
+    "bytes": 114093,
+    "sha256": "7ca2928e8a84266e5f44ab8354c9e52e217daabf8818fbf17bde3de7625d28a5"
+  },
+  {
+    "path": "web/web-after-1280.png",
+    "bytes": 132685,
+    "sha256": "fdfaf157739d172f20374d6b3857fe2c3fbf626d55fa6937714f905282bab836"
+  },
+  {
+    "path": "web/web-verification.json",
+    "bytes": 1963,
+    "sha256": "aea7107d67dfff5738d19099e3b3290c143003506be8279143665df51e2f09ad"
+  }
+]

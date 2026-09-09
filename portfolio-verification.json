@@ -1,0 +1,11 @@
+{
+  "result": "PASS",
+  "portfolioViewports": [
+    390,
+    1280
+  ],
+  "caseCount": 3,
+  "localLinksChecked": 9,
+  "packagedComparison": "before overflow / after no overflow",
+  "pageOrHTTPFailures": []
+}
